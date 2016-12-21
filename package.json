@@ -1,0 +1,22 @@
+{
+  "name": "twitchchat",
+  "version": "1.0.0",
+  "description": "This is a twitch bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanlou/twitch-chat.git"
+  },
+  "author": "Bryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanlou/twitch-chat/issues"
+  },
+  "homepage": "https://github.com/bryanlou/twitch-chat#readme",
+  "dependencies": {
+    "tmi.js": "^1.1.2"
+  }
+}
